@@ -20,15 +20,20 @@ The sales analysis of a random company from 2016 to 2019. Tableau dashboard can 
 
 
 # Summary of Insights
-- **Market**:
+ **Market**:
+  
 • APAC has the highest sales volume ($3.5M) and Canada has the lowest sales volume ($66k)
+
 • The overall return rate is 2.29%, with APAC and LATAM having the highest return rates of 2.69% and 2.90%. Notably, Africa and Canada have a return rate of 0%, which warrants further investigation to ensure data accuracy.
+
 • Profit margin analysis reveals that EMEA and Africa have negative profit margins at -14.36%, suggesting possible operational inefficiencies. Conversely, Canada boasts the highest average profit margin at 24.75%.
 
-- **Ship mode**：
+ **Ship mode**：
+ 
 • Sales across different shipping methods have shown a consistent upward trend, with a particularly sharp increase in Standard Class shipments in 2019, indicating a shift in customer preference or service availability.
 
-- **Segment**:
+ **Segment**:
+ 
 • Corporate and Consumer segments show an increasing trend in sales, with Consumer leading the sales figures. Home Office shows lesser growth.
 
 # Recommendations
