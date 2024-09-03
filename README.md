@@ -33,9 +33,13 @@ The sales analysis of a random company from 2016 to 2019. Tableau dashboard can 
 
 # Recommendations
 • Data Verification: Investigate the completeness of return orders data, particularly for Africa and EMEA, to ensure that the 0% return rates are accurate and not due to missing data.
+
 • Market Expansion in Canada: Given that Canada has the highest profit margin but the lowest sales volume, consider strategies to expand market presence in Canada to capitalize on its profitability.
+
 • Negative Profit Margins in Africa and EMEA: Investigate the causes of negative profit margins in Africa and EMEA and analyze the impact of discounts on profitability.
+
 • Post-2020 Data Collection: Collect and analyze data post-2020 to determine if the Home Office segment experienced growth due to the COVID-19 pandemic, which could suggest a lasting shift in market demand.
+
 • Shipping Cost Analysis: Conduct a deeper analysis of shipping costs associated with different ship modes to understand their impact on profitability and customer satisfaction. This may reveal opportunities for optimizing shipping strategies.
 
 
