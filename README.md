@@ -48,6 +48,10 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
 • Shipping Cost Analysis: Conduct a deeper analysis of shipping costs associated with different ship modes to understand their impact on profitability and customer satisfaction. This may reveal opportunities for optimizing shipping strategies.
 
 
+# Further analysis by Market
+![Screenshot 2024-09-09 at 15 21 42](https://github.com/user-attachments/assets/ff806525-2809-4e70-8e57-4218857dc205)
+![Screenshot 2024-09-09 at 15 22 08](https://github.com/user-attachments/assets/a3d2b8da-ef1a-4e55-b5fa-7377d3785edb)
+
 # Data Structure
 This dataset contains three tables: SalesRep, Orders, Returns.
 ![Screenshot 2024-09-03 at 22 51 44](https://github.com/user-attachments/assets/e9f5b8d1-173e-4dfd-aa6a-94bfa7187d1e)
