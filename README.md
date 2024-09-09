@@ -30,11 +30,11 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
 
  **Ship mode**：
  
-• Sales across different shipping methods have shown a consistent upward trend, with a particularly sharp increase in Standard Class shipments in 2019, indicating a shift in customer preference or service availability.
+• Sales across different shipping methods showed a consistent seaonality trend, with a particularly sharp increase in Standard Class shipments by the end of 2019, but did't show much of a change in the percentage mix graph, indicating overall sale growth in 2019.
 
  **Segment**:
  
-• Corporate and Consumer segments show an increasing trend in sales, with Consumer leading the sales figures. Home Office shows lesser growth.
+• Corporate and Consumer segments show an increasing trend in sales, with Consumer leading the sales figures. 
 
 # Recommendations
 • Data Verification: Investigate the completeness of return orders data, particularly for Africa and EMEA, to ensure that the 0% return rates are accurate and not due to missing data.
