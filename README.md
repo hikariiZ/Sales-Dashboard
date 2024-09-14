@@ -1,7 +1,8 @@
 # Sales Analysis
 The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be found [here](https://public.tableau.com/app/profile/xiujun.zha/viz/Salesdashboard_17252508821770/SalesDashboard)
 
-![Sales Dashboard](https://github.com/user-attachments/assets/2629c75f-a2a6-42c0-b650-9e795f89b371)
+![Sales Dashboard (1)](https://github.com/user-attachments/assets/f841f561-8d96-460b-85f0-3df142569691)
+
 
 # Metrics and Dimensions
 •**Sales**:The total revenue.
