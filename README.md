@@ -1,4 +1,4 @@
-![Screenshot 2024-09-17 at 15 58 13](https://github.com/user-attachments/assets/54324196-3703-425f-a391-2c8e759c6b65)# Sales Analysis
+# Sales Analysis
 The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be found [here](https://public.tableau.com/app/profile/xiujun.zha/viz/Salesdashboard_17252508821770/SalesDashboard)
 
 ![Sales Dashboard (2)](https://github.com/user-attachments/assets/a10c91f9-0aee-45f2-a3c7-b51cce703ca4)
