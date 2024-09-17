@@ -1,4 +1,4 @@
-# Sales Analysis
+![Screenshot 2024-09-17 at 15 58 13](https://github.com/user-attachments/assets/54324196-3703-425f-a391-2c8e759c6b65)# Sales Analysis
 The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be found [here](https://public.tableau.com/app/profile/xiujun.zha/viz/Salesdashboard_17252508821770/SalesDashboard)
 
 ![Sales Dashboard (2)](https://github.com/user-attachments/assets/a10c91f9-0aee-45f2-a3c7-b51cce703ca4)
@@ -48,13 +48,11 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
 
 • Shipping Cost Analysis: Conduct a deeper analysis of shipping costs associated with different ship modes to understand their impact on profitability and customer satisfaction. This may reveal opportunities for optimizing shipping strategies.
 
-
 # Further Analysis in Market and Ship Mode
+![Screenshot 2024-09-17 at 15 58 38](https://github.com/user-attachments/assets/da4f7d58-966b-40f8-b16c-41a6b26d2402)
 ![Screenshot 2024-09-17 at 15 06 33](https://github.com/user-attachments/assets/754e83a6-f381-498b-832b-3140cc98915c)
 ![Screenshot 2024-09-17 at 15 12 31](https://github.com/user-attachments/assets/69bb7386-fbd5-4711-b5f5-20fbdac52a6c)
-![Screenshot 2024-09-17 at 15 13 21](https://github.com/user-attachments/assets/99093666-924f-48ce-b69f-440e022e1e3e)
 ![Screenshot 2024-09-17 at 15 13 38](https://github.com/user-attachments/assets/0ee6d705-8c95-4daf-ba90-59c503f07cd5)
-
 
 # Data Structure
 This dataset contains three tables: SalesRep, Orders, Returns.
