@@ -37,6 +37,12 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
  
 • Corporate and Consumer segments show an increasing trend in sales, with Consumer leading the sales figures. 
 
+# Further Analysis in Shipping
+![Screenshot 2024-09-17 at 19 03 25](https://github.com/user-attachments/assets/68a247bb-101e-400a-bd6d-c568e787d21f)
+![Screenshot 2024-09-17 at 19 03 42](https://github.com/user-attachments/assets/7fac744a-8ec7-48cf-b15e-b1420c51f6bc)
+![Screenshot 2024-09-17 at 19 03 54](https://github.com/user-attachments/assets/a6da618d-a339-4b78-9e9e-8a019d58285d)
+![Screenshot 2024-09-17 at 19 04 06](https://github.com/user-attachments/assets/511d1366-5c9f-4c0a-bacd-4ad1486a1dff)
+
 # Recommendations
 • Data Verification: Investigate the completeness of return orders data, particularly for Africa and EMEA, to ensure that the 0% return rates are accurate and not due to missing data.
 
@@ -48,10 +54,9 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
 
 • Shipping Cost Analysis: Conduct a deeper analysis of shipping costs associated with different ship modes to understand their impact on profitability and customer satisfaction. This may reveal opportunities for optimizing shipping strategies.
 
-# Further Analysis in Market and Ship Mode
-![Screenshot 2024-09-17 at 15 58 38](https://github.com/user-attachments/assets/da4f7d58-966b-40f8-b16c-41a6b26d2402)
-![Screenshot 2024-09-17 at 17 30 15](https://github.com/user-attachments/assets/5060c361-dd3a-4318-9e61-1e9801e0cda8)
-![Screenshot 2024-09-17 at 15 13 38](https://github.com/user-attachments/assets/0ee6d705-8c95-4daf-ba90-59c503f07cd5)
+
+
+
 
 # Data Structure
 This dataset contains three tables: SalesRep, Orders, Returns.
