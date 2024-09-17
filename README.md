@@ -50,8 +50,7 @@ The sales analysis of company ABC from 2016 to 2019. Tableau dashboard can be fo
 
 # Further Analysis in Market and Ship Mode
 ![Screenshot 2024-09-17 at 15 58 38](https://github.com/user-attachments/assets/da4f7d58-966b-40f8-b16c-41a6b26d2402)
-![Screenshot 2024-09-17 at 15 06 33](https://github.com/user-attachments/assets/754e83a6-f381-498b-832b-3140cc98915c)
-![Screenshot 2024-09-17 at 15 12 31](https://github.com/user-attachments/assets/69bb7386-fbd5-4711-b5f5-20fbdac52a6c)
+![Screenshot 2024-09-17 at 17 30 15](https://github.com/user-attachments/assets/5060c361-dd3a-4318-9e61-1e9801e0cda8)
 ![Screenshot 2024-09-17 at 15 13 38](https://github.com/user-attachments/assets/0ee6d705-8c95-4daf-ba90-59c503f07cd5)
 
 # Data Structure
